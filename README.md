@@ -1,6 +1,10 @@
 ## Fantasy Premier League Helper
 A soccer tool that helps predict a player's expected fantasy points using statistical models on the player's past performance in the competition.
 
+## Images
+<img src="https://github.com/vedantpurohit99/FPLHelper/blob/master/PremierLeague.png" width="550" height="350">
+
+<img src="https://github.com/vedantpurohit99/FPLHelper/blob/master/PremierLeagueSet.png" width="550" height="350">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
